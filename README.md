@@ -8,5 +8,5 @@ Snails move faster as you progress, making the game more challenging.
 Try to achieve the highest score possible!
 
 ## Features
-- ** Endless runner gameplay** : The game continues as long as you avoid collisions.
-- ** Score tracking ** : See your current score while you play and your final score when you lose.
+- **Endless runner gameplay** : The game continues as long as you avoid collisions.
+- **Score tracking** : See your current score while you play and your final score when you lose.
